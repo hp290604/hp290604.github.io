@@ -12,7 +12,8 @@ html,body{
     text-rendering: optimizeLegibility;
 }
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("img/hero.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("food project/Omnifood Contents
+/hero.jpg");
     height: 100vh;
     background-attachment: fixed;
     background-size: cover;
